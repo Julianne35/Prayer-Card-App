@@ -1,0 +1,37 @@
+ion-card-title {
+    color:#3f764c;;
+    font-family: 'Sura';
+    font-weight: 200;
+    font-size: 38px;
+    text-align: center;
+}
+
+ion-title{
+    font-family: 'Sura';
+}
+
+ion-button{
+    font-family: Nunito;
+    font-weight: 600;
+}
+
+ion-card-content {
+    text-align: justify;
+}
+
+ion-card {
+    background-image: url(../../assets/images/striped_background.jpg);
+}
+
+.arrow {
+    border: solid #9ea396;
+    border-width: 0 4px 4px 0;
+    display: inline-block;
+    padding: 3px;
+    margin: 6px;
+  }
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
